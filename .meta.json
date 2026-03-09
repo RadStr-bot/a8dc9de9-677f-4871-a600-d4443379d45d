@@ -5,15 +5,17 @@
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
-    "label": {"a": "AB"},
+    "label": {
+      "a": "A"
+    },
     "description": {}
   },
   "metadata": {
     "creationDate": "2026-03-05T14:09:54.854Z",
-    "modificationDate": "2026-03-05T14:10:14.412Z"
+    "modificationDate": "2026-03-09T16:50:46.507Z"
   },
   "_version": 1,
   "_exportVersion": 2,
-  "_exportedAt": "2026-03-05T14:10:15.663Z",
+  "_exportedAt": "2026-03-09T16:50:53.697Z",
   "_exportedBy": "http://localhost:3100"
 }
